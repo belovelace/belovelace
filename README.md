@@ -5,7 +5,7 @@
   <!--<img src="https://prod-files-secure.s3.us-west-2.amazonaws.com/.../IMG_1753.jpeg" alt="Profile" width="200" style="border-radius:50%;"/>-->
 </p>
 
-# Hi, I’m Shin Eun Ji 👋  
+# ⚪Hi, I’m Shin Eun Ji 
 > 경청하는 자세로 협력하고 예술가의 마음으로 프로젝트를 창조합니다.  
 
 <!-- 빌드 상태 / 언어 통계 / 라이선스 뱃지 -->
