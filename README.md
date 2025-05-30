@@ -70,15 +70,6 @@
 - Email: eunji7480@gachon.ac.kr  
 
 ---
-<!--
-## 📂 Projects
-<!-- 주요 프로젝트 링크 -->
-
-- [프로젝트 A](#) – 설명을 간략히 적습니다.  
-- [프로젝트 B](#) – 설명을 간략히 적습니다.  
-- [프로젝트 C](#) – 설명을 간략히 적습니다.  
--->
----
 
 <p align="center">
   Thank you for visiting! 😊  
