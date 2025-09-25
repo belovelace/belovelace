@@ -20,21 +20,12 @@
 <!-- ======================== -->
 <!--       📚 목차           -->
 <!-- ======================== -->
-## 📖 Table of Contents  
-- [🔍 About Me](#-about-me)  
+## 📖 Table of Contents   
 - [🛠️ Skills](#️-skills)  
 - [🎓 Education](#-education)  
 - [🏆 Activities](#-activities)  
 - [🔗 Contact & Links](#-contact--links)  
 - [📂 Projects](#-projects)
-
----
-
-## 🔍 About Me
-<!-- 간단 자기소개 -->
-- 가천대학교 컴퓨터공학과 재학생  
-- “카바피_이타카” 시를 좌우명으로 삼고, 주짓수·발레·영화를 사랑합니다.  
-- 한계에 도전하며 두려움 없이 배우고 성장합니다.
 
 ---
 
@@ -53,15 +44,14 @@
 ## 🎓 Education 
 - **KH정보교육원 자바개발과정** 수료  
 - **카카오 & 구름** 주최 단풍톤 참여
+- - 카카오 구름톤 유니브 3기 수료
 - Leets 가천대학교 교내 IT 동아리 5기 수료
+- Open Convergence Lab  학부 연구원
 ---
 
 ## 🏆 Activities
-- 교내 ‘창의n트리’ 우수상  
-- 카카오 구름톤 유니브 3기 참여  
-- 2024 서울 스마트라이프워크 AIoT 해커톤 서울시장상 수상  
-
-
+- 가천대학교 교내 창의n트리 - 우수상  
+- 2024 서울 스마트라이프워크 AIoT 해커톤 우수상(서울시장상) 수상  
 ---
 
 ## 🔗 Contact & Links
