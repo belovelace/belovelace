@@ -76,18 +76,18 @@
 <td width="60%" align="center">
 
 ### 📚 **Formal Education & Training**
-- 🎯 **KH정보교육원** 자바개발과정 수료  
-- 🌟 **카카오 구름톤 유니브 3기** 수료
-- 💻 **Leets** 가천대학교 교내 IT 동아리 5기 수료
-- 🔬 **Open Convergence Lab** 학부 연구원
+- **KH정보교육원** 자바개발과정 수료  
+- **카카오 구름톤 유니브 3기** 수료
+- **Leets** 가천대학교 교내 IT 동아리 5기 수료
+- **Open Convergence Lab** 학부 연구원
 
 </td>
 <td width="40%" align="center">
 
 ### 🏃‍♀️ **Recent Activities**
-- 🍂 **단풍톤** (카카오 & 구름 주최) 참여
-- 🚀 **해커톤** 다수 참여
-- 📈 **지속적인 스킬 업그레이드**
+- **단풍톤** (카카오 & 구름 주최) 참여
+- **해커톤** 다수 참여
+- **지속적인 스킬 업그레이드**
 
 </td>
 </tr>
@@ -142,7 +142,7 @@
 </a>
 
 **🍽️ CHIKAHAE**
-*음식 추천 서비스*
+*덴탈케어 서비스*
 
 </td>
 <td width="33%" align="center">
@@ -152,7 +152,7 @@
 </a>
 
 **👁️ Eyes On Us**
-*시각 보조 애플리케이션*
+*그룹웨어 서비스*
 
 </td>
 <td width="33%" align="center">
