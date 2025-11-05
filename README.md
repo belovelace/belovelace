@@ -93,8 +93,6 @@
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=fadeIn)
-
-### ✨ *"개발을 인생의 장르로, 한계에 도전하며 협력으로 가치를 창조합니다!"* ✨
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,17,20&height=120&section=footer&animation=fadeIn)
 
 </div>
